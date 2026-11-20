@@ -1,0 +1,4 @@
+,Modelo 1,Modelo 2,Estadistico DM,p-value,Conclusion (5%)
+0,Random Forest,Base (promedio),1.3219851802088831,0.18681611890213867,Sin diferencia significativa
+1,KNN,Base (promedio),0.3193472806554285,0.7496050725890804,Sin diferencia significativa
+2,Random Forest,KNN,0.872460978246005,0.38340243442433986,Sin diferencia significativa
